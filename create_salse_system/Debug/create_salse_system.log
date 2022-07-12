@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  UserDlg.cpp
+  SellDlg.cpp
+  SelectView.cpp
+  MainFrm.cpp
+  LoginDlg.cpp
+  InfoFile.cpp
+  InfoDlg.cpp
+  DispalyView.cpp
+  DelDlg.cpp
+  create_salse_systemView.cpp
+  create_salse_systemDoc.cpp
+  create_salse_system.cpp
+  AddDlg.cpp
+  正在生成代码...
+  create_salse_system.vcxproj -> W:\桌面存放文件\项目\MFC_销售管理系统\Debug\create_salse_system.exe
+  create_salse_system.vcxproj -> W:\桌面存放文件\项目\MFC_销售管理系统\Debug\create_salse_system.pdb (Full PDB)
